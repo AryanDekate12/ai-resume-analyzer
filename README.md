@@ -90,8 +90,7 @@ ai-resume-analyzer/
 ├── app.py  
 ├── resume_engine.py  
 ├── requirements.txt  
-├── README.md  
-└── demo.mp4 (optional)  
+└── README.md    
 
 ---
 
