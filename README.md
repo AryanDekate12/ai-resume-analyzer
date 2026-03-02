@@ -70,7 +70,7 @@ docx2txt
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git  
+git clone https://github.com/AryanDekate12/ai-resume-analyzer.git  
 cd ai-resume-analyzer  
 
 Install dependencies:
